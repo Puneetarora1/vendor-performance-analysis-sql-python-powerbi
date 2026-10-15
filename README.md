@@ -66,7 +66,7 @@ The distributor serves to 100+ vendors, so distributor needs to analyze data to 
 - **Interactive Tooltips** – Provides additional details when users interact with dashboard visuals.
 - **KPI Cards** – Provides a quick overview of important business metrics.
   
-- ![Customer Segments](https://github.com/Puneetarora1/PhonePe-Data-Analysis-Project/blob/main/Report%20Snapshot.png)
+- ![Customer Segments](https://github.com/Puneetarora1/vendor-performance-analysis-sql-python-powerbi/blob/main/Reports%20and%20Dashbaord/Power%20BI%20Dashboard%20Snapshot.png)
 
 ---
 
